@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(109, 196, 161);
+  }
+
+#tabel-udin{
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin: auto;
+}
+
+#tabel-udin h3 {
+    font-size: 32px;
+    margin: auto;
+}
+
+.satu{
+    background: rgb(166, 166, 225);
+}
+
+#tabel-udin td{
+    padding: 20px;
+}
+
+.dua{
+    background: wheat;
+}
+
